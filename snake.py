@@ -1,12 +1,5 @@
 import pygame, sys, time, random
 
-
-
-# THANKS FOR WATHING, WHAT KIND OF GAMES U WANT TO SEE NEXT TIME? PLEASE STATE IT IN THE COMMENTS
-
-# CHEERSS
-
-
 speed = 15
 
 #windows sizes
